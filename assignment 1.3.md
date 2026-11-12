@@ -5,10 +5,7 @@ Provide:
 3. Expected responses for successful operations 
 4. Test cases for error scenarios (missing fields, invalid data, course not found) 
 
- `PUT /courses/<course_id>`
-- `DELETE /courses/<course_id>`
-
-Replace the routes or field names if your implementation differs.
+# Response
 
 Start the application:
 
