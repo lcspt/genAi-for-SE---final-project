@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "course_name": "REST API Design with Flask",
+    "current_status": "In Progress",
+    "target_completion_date": "2026-12-15",
+    "description": "Learn how to build REST APIs using Python and Flask."
+  },
+  {
+    "id": 2,
+    "course_name": "Generative AI: Elevate your Software Development Career, Final Project",
+    "current_status": "In Progress",
+    "target_completion_date": "2026-11-15",
+    "description": "consolidate your learning by engaging with a comprehensive project that challenges you to build a personalized learning platform for developers using generative AI."
+  }
+]
